@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htyagi2003" alt="htyagi2003" /></a> </p>
 
-- 🔭 I’m currently working on **Fake News Detection**
+- 🔭 I’m currently working on **.NET CORE MVC**
 
-- 🌱 I’m currently learning **DSA ,Frontend Engineering , Data Science**
+- 🌱 I’m currently learning **DSA ,Full Stack Development , Data Science**
 
 - 📫 How to reach me **tyagih893@gmail.com**
 
